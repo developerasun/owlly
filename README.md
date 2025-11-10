@@ -1,3 +1,6 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/developerasun/hexbook)
+![Static Badge](https://img.shields.io/badge/Is_Jake_Working_On_This_Now-No-red)
+
 <div align="center">
 
 # 🦉Owlly
